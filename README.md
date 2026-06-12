@@ -212,7 +212,8 @@ Results are deterministic with `random_state=42`.
 ## 👤 Author
 
 **Tanishka Gupta**  
-B.Tech CSE — SRMIST  
+B.Tech CSE — SRMIST
+**Intern ID:** CITS4367
 [LinkedIn](https://linkedin.com/in/tanishkagupta) · [GitHub](https://github.com/tanishkagupta)
 
 ---
